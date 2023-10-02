@@ -1,16 +1,16 @@
-### Oiee, Eu sou a Milleny (Mi) 🐱‍🚀
+### Oiee, Eu sou a Milleny (Mi) 😺
 - 💚 Atuo como Site Reliability Engineer na Stone
 - 🎓 Sou graduanda de Sistemas de Informação na Universidade de São Paulo (USP) 
-- 🌱 Meu foco de estudos é automação e AWS
- 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=micdasx&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+- 🌱 Estou me especializando em automação de processos e AWS
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=micdasx&hide=prs,issues,reviews&show_icons=true&theme=radical&&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=micdasx&layout=compact&langs_count=8&card_width=200&theme=radical&size_weight=0.5&count_weight=0.5" />
+</a>
+
+### Principais projetos 🚀
+          
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micdasx&repo=pong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
