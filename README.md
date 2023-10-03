@@ -32,7 +32,3 @@
  <a href="https://open.spotify.com/user/21oc3boj3ktmx7effdpiiunbi" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
-##
-
-![snake gif](https://github.com/micdasx/micdasx/blob/output/github-contribution-grid-snake.svg)
-
