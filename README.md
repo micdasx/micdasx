@@ -4,7 +4,7 @@
 - 🌱 Estou me especializando em automação de processos e AWS
 
 ![Minhas principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=micdasx&layout=compact&hide_border=true&langs_count=8&theme=radical&custom_title=Minhas%20principais%20linguagens)
-![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=micdasx&show_icons=true&theme=radical&rank_icon=github&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&disable_animations=false)
+![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=micdasx&show_icons=true&theme=radical&rank_icon=github&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&disable_animations)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mi-AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
