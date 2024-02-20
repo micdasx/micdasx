@@ -7,7 +7,7 @@
 ![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=micdasx&show_icons=true&theme=radical&rank_icon=github&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&disable_animations)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mi-AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Mi-AWS" height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Mi-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
   <img align="center" alt="Mi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Mi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
