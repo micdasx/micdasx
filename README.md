@@ -7,11 +7,15 @@
 ![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=micdasx&show_icons=true&theme=radical&rank_icon=github&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&disable_animations)
 
 <div style="display: inline_block"><br>
+  <h2>Tecnologias & Linguagens</h2>
   <img align="center" alt="Mi-AWS" height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Mi-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Mi-Azure" height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg">
+  <img align="center" alt="Mi-GCP" height="30" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Mi-Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg">
   <img align="center" alt="Mi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Mi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Mi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Mi-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg">
 </div>
 
 ## 
