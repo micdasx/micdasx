@@ -1,4 +1,4 @@
-### Oiee, eu sou a Milleney (Mi) 😺
+### Oiee, eu sou a Milleny (Mi) 😺
 - 💚 Atuo como Site Reliability Engineer na Stone
 - 🎓 Sou graduanda de Sistemas de Informação na Universidade de São Paulo (USP) 
 - 🌱 Estou me especializando em automação de processos e AWS
