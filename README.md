@@ -1,6 +1,6 @@
 ### Oiee, eu sou a Milleny (Mi) 😺
 - 💚 Atuo como Site Reliability Engineer na Stone
-- 🎓 Sou graduanda de Sistemas de Informação na Universidade de São Paulo (USP) 
+- 🎓 Sou bacharela em Sistemas de Informação pela Universidade de São Paulo (USP) 
 - 🌱 Estou me especializando em automação de processos e AWS
 
 ![Minhas principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=micdasx&layout=compact&hide_border=true&langs_count=10&theme=radical&custom_title=Minhas%20principais%20linguagens)
